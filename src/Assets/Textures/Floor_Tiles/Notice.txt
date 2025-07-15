@@ -1,1 +1,1 @@
-This textures UV space is trivialized and can be tiled over and UV space, tiled over a 4x0.15 m tile in production.
+This textures UV space is trivialized and can be tiled over and UV space, tiled over a 4x4x0.10 (x,y,z)m tile in production.
