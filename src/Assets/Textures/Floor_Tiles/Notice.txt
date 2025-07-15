@@ -1,1 +1,5 @@
 This textures UV space is trivialized and can be tiled over and UV space, tiled over a 4x4x0.10 (x,y,z)m tile in production.
+
+Facets and postulations for convinience will be non-formativley injucted in this list.
+
+0.25 Centimenters per tile.
