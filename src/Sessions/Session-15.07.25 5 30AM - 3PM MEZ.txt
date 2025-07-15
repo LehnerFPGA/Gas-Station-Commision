@@ -8,3 +8,6 @@ The following documents convey process and facets that have been changed over a 
 
 |end|
 
+5:30 AM - 6:50 AM
+
+Set up template for the tile texture which will be refined and detailed, subsequently also set up development enviroment partially via draw.io, GitHub, Notion, Google keep
